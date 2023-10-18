@@ -1,0 +1,32 @@
+@import "~@flaticon/flaticon-uicons/css/all/all";
+
+.Nav{
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    border-radius: 50px;
+    background-color: #D3F689;
+    margin-top: 5px;
+    border: #8CCA6E dotted;
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, 0);
+    z-index: 100;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+a{
+    text-decoration: none;
+    color: #1F3A52;
+    height: 10vh;
+}
+
+.ni{
+    font-size: 26px;
+    margin: 2px;
+    padding: 10px;
+}
+
+.ni:hover{
+    color: green;
+}

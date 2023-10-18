@@ -1,0 +1,51 @@
+.shome{
+    height: 100vh;
+    background-color: #F2EE9D;
+    display: grid;
+}
+
+.si{
+    width: 80vw;
+    aspect-ratio: 2.15/1;
+    background-color: #FFFBE9;
+    margin: auto;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    display: grid;
+}
+
+.sta{
+    width: 80vw;
+    margin: 0px;
+    padding: 0px;
+}
+
+.r{
+    width: 40vw;
+}
+
+.scon{
+    text-align: center;
+    width: 40vw;
+}
+
+.scon h3{
+    font-size: 2vw;
+    color: #555843;
+}
+
+.scon p{
+    display: inline;
+    border-radius: 10px;
+    margin-left: 5px;
+    background-color: #7A9D54;
+    color: #D0F5BE;
+    font-size: 1.2vw;
+    line-height: 200%;
+    padding: 3px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+.scon p:hover{
+    color: #F2EE9D;
+    font-size: 1.3vw;
+}

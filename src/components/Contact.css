@@ -1,0 +1,48 @@
+.cont{
+    height: 100vh;
+    background-color: #79E0EE;
+    display: grid;
+}
+
+.conti{
+    width: 80vw;
+    aspect-ratio: 2.15/1;
+    background-color: #FFFBE9;
+    margin: auto;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    display: grid;
+}
+
+.ci{
+    font-size: 4vw;
+    padding-left: 5vw;
+    vertical-align: middle;
+}
+
+.ct{
+    width: 40vw;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.conti p{
+    font-size: 1.5vw;
+    text-align: left;
+    color: #006A71;
+    vertical-align: middle;
+}
+
+.conti img{
+    vertical-align: middle;
+    width: 2vw;
+    padding-left: 3px;
+}
+
+.cont iframe{
+    width: 35vw;
+    height: 50vh;
+}
+
+.txtho{
+    padding-left: 1vw;
+}
